@@ -25,7 +25,7 @@ SECRET_KEY = '6*kczh@o2nb@+8&pjac8z395gp9*a2zuqmd#ut*-fzjvwvj*oj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['myraart11.pythonanywhere.com']
 
 
 # Application definition
